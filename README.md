@@ -136,12 +136,13 @@ the length of snake increases.
 
 ## **Run game**
 
-➢ Extract the zip folder of the code base.
+<pre>
+➢ Download the zip folder and extract the code files or clone it as shown above.
 ➢ Install python on your computer. [Link](https://www.python.org/downloads/)
 ➢ Install pygame using the command “pip install pygame”.
-➢ Move to the code directory using “cd Slytherin”
-➢ Run the python file using the command “python slytherin.py”
-
+➢ Move to the code directory using “cd Code”
+➢ Run the python file using the command “python Slytherin.py”
+</pre>
 
 <br>
 
@@ -153,12 +154,9 @@ the length of snake increases.
 
 ><br>
 >
->You should make sure that you are in Code directory.
+>NOTE: You should make sure that you are in "Code" directory.
 >
 ><br>
-
-<br>
-<br>
 
 
 ## ⏫ [**BACK TO TOP**](#Slytherin)
