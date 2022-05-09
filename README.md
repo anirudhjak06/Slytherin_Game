@@ -28,15 +28,20 @@ The problem is to design a Snake Game which provides the following functionaliti
 
 • Snake can move in a given direction and when it eats the food,
 the length of snake increases.
+
 • When the snake crosses itself, the game will be over.
 
 Slytherin is a 2D snake game made using the pygame module.
+
 Some of its main features are :
+
+<pre>
 ➢ Main menu
 ➢ Pause functionality
 ➢ Highest score counter
 ➢ Runtime score
 ➢ Game music
+</pre>
 
 **For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
 
@@ -45,9 +50,6 @@ Some of its main features are :
 
 ## **Table of contents**
 
-<br>
-<br>
-
 > <br>
 >
 > * [What is Slytherin](#what-is-slytherin)
@@ -55,9 +57,6 @@ Some of its main features are :
 > * [Installation for windows](#Instalation-for-windows)
 > * [Run game](#Run-game)
 
-> <br>
-
-<br>
 <br>
 
 ## **What is Slytherin**
@@ -82,11 +81,10 @@ Some of its main features are :
 
 ><br>
 >
->Game has its own physics **Engine**.
+>The game has its own physics **Engine**.
 >
 ><br>
 
-<br>
 <br>
 
 ## **Modules used**
@@ -100,7 +98,7 @@ Some of its main features are :
 
 <br>
 
-## **Instalation for windows**
+## **Installation for Windows**
 
 <br>
 
@@ -109,7 +107,7 @@ Some of its main features are :
 <br>
 
 ```
-  git clone https://github.com/Blaize15/Snooby.git
+  git clone https://github.com/anirudhjak06/Slytherin_Game.git
 ```
 
 <br>
@@ -119,9 +117,6 @@ Some of its main features are :
 <br>
 
 ### Install ``pygame``
-
-<br>
-
 
 ```
   pip install pygame
@@ -146,14 +141,14 @@ Some of its main features are :
 <br>
 
 ```
-  python Snooby.py
+  python Slytherin.py
 ```
 
 <br>
 
 ><br>
 >
->You should make sure that you are in project directory.
+>You should make sure that you are in Code directory.
 >
 ><br>
 
