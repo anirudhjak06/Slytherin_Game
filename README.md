@@ -41,7 +41,7 @@ the length of snake increases.
 
 - When the snake crosses itself, the game will be over.
 
-**For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
+**For more details about the project, please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
 
 [1]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Report.pdf "Title"
 [2]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Slides.pdf "Title"
