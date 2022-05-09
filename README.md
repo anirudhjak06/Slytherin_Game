@@ -24,16 +24,7 @@ to like and the code written in pygame is kept simple which can
 run across many platforms and operating systems.
 
 ## Abstract
-The problem is to design a Snake Game which provides the following functionalities:
-
-• Snake can move in a given direction and when it eats the food,
-the length of snake increases.
-
-• When the snake crosses itself, the game will be over.
-
-Slytherin is a 2D snake game made using the pygame module.
-
-Some of its main features are :
+Slytherin is a 2D snake game made using the pygame module. Some of its main features are :
 
 <pre>
 ➢ Main menu
@@ -43,18 +34,25 @@ Some of its main features are :
 ➢ Game music
 </pre>
 
+The problem is to design a Snake Game which provides the following functionalities:
+
+- Snake can move in a given direction and when it eats the food,
+the length of snake increases.
+
+- When the snake crosses itself, the game will be over.
+
 **For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
 
-[1]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20Report.pdf "Title"
-[2]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20PPT.pdf "Title"
+[1]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Report.pdf "Title"
+[2]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Slides.pdf "Title"
 
 ## **Table of contents**
 
 > <br>
 >
 > * [What is Slytherin](#what-is-slytherin)
-> * [Modules used](#module-used)
-> * [Installation for windows](#Instalation-for-windows)
+> * [Modules used](#modules-used)
+> * [Installation for windows](#Installation-for-windows)
 > * [Run game](#Run-game)
 
 <br>
@@ -137,6 +135,13 @@ Some of its main features are :
 <br>
 
 ## **Run game**
+
+➢ Extract the zip folder of the code base.
+➢ Install python on your computer. [Link](https://www.python.org/downloads/)
+➢ Install pygame using the command “pip install pygame”.
+➢ Move to the code directory using “cd Slytherin”
+➢ Run the python file using the command “python slytherin.py”
+
 
 <br>
 
