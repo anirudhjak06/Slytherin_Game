@@ -1,16 +1,9 @@
 # **Slytherin**
 
-<br>
-<br>
-
-![Licence](https://img.shields.io/badge/Licence-MIT-blue)  ![Tag](https://img.shields.io/badge/Tag-V10.1-yellow)
-
-![lANGUAGE](https://img.shields.io/badge/Language-Python3-brightgreen)
-
+## A 2D Snake Game using Pygame
 
 <br>
 <br>
-
 
 ![Snake](https://cdn.pixabay.com/photo/2014/04/03/11/55/snake-312561_960_720.png)
 
@@ -19,30 +12,59 @@
 
 <br>
 
+## Problem Statement
+- To write a program in python using a pygame module that will
+animate a 2D Snake Game using many multimedia functionalities
+like images, audio and video.
 
-## **Table of content**
+## Problem Solution
+- By creating a 2D snake game using pygame module, it is
+beginner-friendly, making it a great platform for all adults and kids
+to like and the code written in pygame is kept simple which can
+run across many platforms and operating systems.
+
+## Abstract
+The problem is to design a Snake Game which provides the following functionalities:
+
+• Snake can move in a given direction and when it eats the food,
+the length of snake increases.
+• When the snake crosses itself, the game will be over.
+
+Slytherin is a 2D snake game made using the pygame module.
+Some of its main features are :
+➢ Main menu
+➢ Pause functionality
+➢ Highest score counter
+➢ Runtime score
+➢ Game music
+
+**For more details about the project please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
+
+[1]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20Report.pdf "Title"
+[2]: https://github.com/anirudhjak06/Solar-System/blob/main/Project%20PPT.pdf "Title"
+
+## **Table of contents**
 
 <br>
 <br>
 
 > <br>
 >
-> * [What is snooby](#what-is-snooby)
-> * [Module used](#module-used)
-> * [Instalation for windows](#Instalation-for-windows)
+> * [What is Slytherin](#what-is-slytherin)
+> * [Modules used](#module-used)
+> * [Installation for windows](#Instalation-for-windows)
 > * [Run game](#Run-game)
-> * [Get in touch](#Get-in-touch)
->
+
 > <br>
 
 <br>
 <br>
 
-## **What is Snooby**
+## **What is Slytherin**
 
 <br>
 
-**Snooby** is a 2D snake game made using ```pygame``` module. Some of its main **features** are **:**
+**Slytherin** is a 2D snake game made using ```pygame``` module. Some of its main **features** are **:**
 
 <br>
 
@@ -67,9 +89,7 @@
 <br>
 <br>
 
-## **Module used**
-
-<br>
+## **Modules used**
 
 ><br>
 >
@@ -78,7 +98,6 @@
 >
 ><br>
 
-<br>
 <br>
 
 ## **Instalation for windows**
@@ -121,8 +140,6 @@
 * [**``Fix pip``**](https://www.youtube.com/watch?v=mFqdeX1C-8M)
 
 <br>
-<br>
-
 
 ## **Run game**
 
@@ -143,24 +160,5 @@
 <br>
 <br>
 
-## **Get in touch**
-	
-<br>
 
-><br>
->
-> 🔷 [**Linkedin**](https://www.linkedin.com/in/md-moinuddin-ab13a1203 "linkdin")
-> 
-> 📷 [**Instagram**](https://www.instagram.com/noobyco/ "instagram")
-> 
-> 🐦 [**Twitter**](https://twitter.com/Noobyco?s=08) 
->
-> 📬 [**Mail**](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNstdJtskmXWdDTsfxRXXnZXHRmZwXbWkQNShjVCTkhKWJMVZNjtLdVVtJpGWLkXfmmXGB)
->
-><br>
-
-<br>
-<br>
-
-
-## ⏫ [**BACK TO TOP**](#Snooby)
+## ⏫ [**BACK TO TOP**](#Slytherin)
